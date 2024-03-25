@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.container-fluid{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: whitesmoke;    
+}
+.ab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home a{
+    color: whitesmoke;
+    text-decoration: none;
+}
